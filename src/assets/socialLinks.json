@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gitee",
+    "icon": "/images/icon/gitee.png",
+    "tip": "去 Gitee 看看 ~",
+    "url": "https://gitee.com/wuZhongtian"
+  },
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/ghwzlh"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:ghw17816142240@gmail.com"
+  }
+]

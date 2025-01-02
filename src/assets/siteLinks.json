@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://weekly-beta-seven.vercel.app"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "MyFreeMP3",
+    "link": "https://tool.liumingye.cn/music/#/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "DIY仓库(待开放)",
+    "link": "https://wudetian.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "待开发...",
+    "link": "https://wudetian.top/"
+  }
+]
